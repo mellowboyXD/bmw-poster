@@ -121,15 +121,8 @@ img.car-img {
     border-bottom-right-radius: 10%;
 }
 
-
 .flag {
     width: 40px;
-}
-
-.insta {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
 }
 
 @media screen and (max-width: 550px) {
@@ -168,13 +161,8 @@ img.car-img {
         font-size: 0.8rem;
     }
 
-    .desc {
-        margin-top: 3px;
+    .value {
         font-size: 0.8rem;
-    }
-
-    .wrap-desc {
-        gap: 0;
     }
 }
 
@@ -218,8 +206,7 @@ img.car-img {
         font-size: 1rem;
     }
 
-    .desc {
-        margin-top: 3px;
+    .value {
         font-size: 0.9rem;
     }
 }
