@@ -103,7 +103,11 @@ img.car-img {
     align-items: flex-start;
 }
 
-.wrap-desc {
+.specs-left .wrap-desc {
+    gap: 4px;
+}
+
+.specs-right .wrap-desc {
     gap: 3px;
 }
 
