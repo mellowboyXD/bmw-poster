@@ -101,6 +101,10 @@ img.car-img {
     font-size: 0.8rem;
 }
 
+.owner a, i {
+    color: #5180ddc8;
+}
+
 .engine-info {
     display: flex;
     align-items: center;
