@@ -90,6 +90,17 @@ img.car-img {
     color: #686D76;
 }
 
+.owner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+.owner .label {
+    font-size: 0.8rem;
+}
+
 .engine-info {
     display: flex;
     align-items: center;
